@@ -1,6 +1,12 @@
 # torch-mechanics, 
 Amateur experiments with autodiff mechanics simulators
 
+Goal: 
+
+* A mini-golf simulator in torch / torchdynamo
+* Method - non-holonomic Lagrangian mechanics with an Euler discretization and Newton steps. 
+
+
 To implement
  
 * https://blog.jle.im/entry/hamiltonian-dynamics-in-haskell.html
